@@ -1,8 +1,13 @@
 <h1 align="center">👋 Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 <p align="center">
-  <a href="https://github.com/andresdavidhr">📍 GitHub</a> •
-  <a href="https://www.linkedin.com/in/andresdavidhr">🔗 LinkedIn</a>
+  <a href="https://github.com/andresdavidhr">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28" style="vertical-align:middle"/>
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/andresdavidhr">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" style="vertical-align:middle"/>
+  </a>
 </p>
 
 
