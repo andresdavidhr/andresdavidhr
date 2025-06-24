@@ -1,5 +1,4 @@
-<details>
-  <summary>🇬🇧 English</summary>
+<summary>🇬🇧 English</summary>
 
 ## 🧠 About Me
 
@@ -59,5 +58,3 @@ I enjoy delivering reliable solutions that create business value.
 🚀 Always open to collaboration and new ideas
 
 Thanks for stopping by 🙌
-
-</details>
