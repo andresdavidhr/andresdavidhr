@@ -20,5 +20,5 @@
 
 ---
 
-- [🇬🇧 English](lang/english.md)
-- [🇪🇸 Español](lang/spanish.md)
+- [🇬🇧 - English](lang/english.md)
+- [🇪🇸 - Español](lang/spanish.md)
