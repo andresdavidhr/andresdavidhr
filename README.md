@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
 </p>
 
 <!-- Certifications -->
