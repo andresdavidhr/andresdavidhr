@@ -24,13 +24,13 @@
 <details>
   <summary>🇬🇧 English</summary>
 
-- [About Me](lang/en/resumen.md)
+- [Summary](lang/en/summary.md)
 </details>
 
 <details open>
   <summary>🇪🇸 Español</summary>
 
-- [Sobre mí](lang/es/resumen.md)
+- [Resumen](lang/es/summary.md)
 </details>
 
 ---

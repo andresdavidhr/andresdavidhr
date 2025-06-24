@@ -1,4 +1,4 @@
-- [Back home](/README.md)
+- [Return to home](/README.md)
 
 ## 🧠 About Me
 
@@ -59,4 +59,4 @@ I enjoy delivering reliable solutions that create business value.
 
 Thanks for stopping by 🙌
 
-- [Back home](/README.md)
+- [Return to home](/README.md)
