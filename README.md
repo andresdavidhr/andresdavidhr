@@ -1,4 +1,4 @@
-<h1 align="center">👋 Andrés David Hernández Rocamora</h1>
+<h1 align="center">Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 
 <!-- Skills -->
