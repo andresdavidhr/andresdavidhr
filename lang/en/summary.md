@@ -1,5 +1,4 @@
-<details>
-  <summary>🇬🇧 English</summary>
+- [Return to home](/README.md)
 
 ## 🧠 About Me
 
@@ -60,4 +59,4 @@ I enjoy delivering reliable solutions that create business value.
 
 Thanks for stopping by 🙌
 
-</details>
+- [Return to home](/README.md)

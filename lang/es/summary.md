@@ -1,5 +1,4 @@
-<details open>
-  <summary>🇪🇸 Español</summary>
+- [Volver a inicio](/README.md)
 
 ## 🧠 Sobre mí
 
@@ -60,4 +59,4 @@ Me gusta construir soluciones robustas, confiables y con impacto real en el nego
 
 Gracias por visitar mi perfil 🙌
 
-</details>
+- [Volver a inicio](/README.md)
