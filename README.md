@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/SQL-Advanced-lightgrey?logo=mysql" />
     <img src="https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" />
 </p>
