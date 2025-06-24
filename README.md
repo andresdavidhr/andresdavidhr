@@ -1,4 +1,4 @@
-<h1 align="center">👋 Andrés David Hernández Rocamora</h1>
+<h1 align="center">Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 
 <!-- Skills -->
@@ -22,15 +22,31 @@
 ---
 
 <details>
-  <summary>🇬🇧 English</summary>
+    <summary>🇬🇧 English</summary>
+
+Explore my profile:
 
 - [Summary](lang/en/summary.md)
+- [About me](lang/en/about.md)
+- [Training and courses](lang/en/training.md)
+- [Archivements](lang/en/archivements.md)
+- [Professional career](lang/en/professionalCareer.md)
+- [Personal projects](lang/en/personalProjects.md)
+- [Contact](lang/en/contact.md)
 </details>
 
-<details open>
+<details>
   <summary>🇪🇸 Español</summary>
 
+Explora mi perfil:
+
 - [Resumen](lang/es/summary.md)
+- [Sobre mi](lang/en/about.md)
+- [Formación y cursos](lang/es/training.md)
+- [Logros](lang/en/archivements.md)
+- [Carrera profesional](lang/en/professionalCareer.md)
+- [Proyectos personales](lang/en/personalProjects.md)
+- [Contacto](lang/en/contact.md)
 </details>
 
 ---
