@@ -41,12 +41,12 @@ Explore my profile:
 Explora mi perfil:
 
 - [Resumen](lang/es/summary.md)
-- [Sobre mi](lang/en/about.md)
+- [Sobre mi](lang/es/about.md)
 - [Formación y cursos](lang/es/training.md)
-- [Logros](lang/en/archivements.md)
-- [Carrera profesional](lang/en/professionalCareer.md)
-- [Proyectos personales](lang/en/personalProjects.md)
-- [Contacto](lang/en/contact.md)
+- [Logros](lang/es/archivements.md)
+- [Carrera profesional](lang/es/professionalCareer.md)
+- [Proyectos personales](lang/es/personalProjects.md)
+- [Contacto](lang/es/contact.md)
 </details>
 
 ---

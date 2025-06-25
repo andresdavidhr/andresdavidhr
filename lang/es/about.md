@@ -33,6 +33,7 @@ Me gusta construir soluciones robustas, confiables y con impacto cuantificable e
 
 - Inteligencia Artificial aplicada a datos empresariales.
 - Automatización avanzada con Python y Node.js.
+- Mejorar nivel de inglés.
 
 ### 🌐 Idiomas
 
