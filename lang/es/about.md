@@ -54,9 +54,13 @@ Estoy ansioso por continuar contribuyendo al éxito de la empresa y seguir desar
 | Español | Nativo     |
 | Inglés  | Intermedio |
 
+---
+
+- [Resumen](summary.md)
+<!-- - [Sobre mi](about.md) -->
 - [Formación y cursos](training.md)
 - [Logros](archivements.md)
-- [Carrera profesional](professionalCareer.md)
+ - [Carrera profesional](professionalCareer.md)
 - [Proyectos personales](personalProjects.md)
 - [Contacto](contact.md)
 

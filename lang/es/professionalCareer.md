@@ -22,16 +22,16 @@
 ---
 
 ### 📄 Descarga mi CV
-
 Puedes descargar mi currículum actualizado aquí:
 [Descargar CV (PDF)](/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
 
 ---
 
-- [Resumen](lang/es/summary.md)
+- [Resumen](summary.md)
 - [Sobre mi](about.md)
 - [Formación y cursos](training.md)
 - [Logros](archivements.md)
+<!-- - [Carrera profesional](professionalCareer.md) -->
 - [Proyectos personales](personalProjects.md)
 - [Contacto](contact.md)
 
