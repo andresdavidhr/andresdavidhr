@@ -4,9 +4,7 @@
 *2018 - Actualidad*
 - Soporte 24/7 para entornos críticos.
 - Automatización y optimización de procesos y cargas de datos.
-- Coordinación con cliente, informes de estado y gestión de incidencias.
-- Uso avanzado de Linux, Shell Script, Oracle, Control-M, MicroStrategy.
-- Gestión de tickets JIRA y seguimiento del estado del sistema de forma continua.
+- Coordinación con cliente, informes de estado y gestión de incidencias JIRA.
 - Tecnologias principales: Oracle, Shell script, Datawarehause, Microstrategy y Control-M.
 
 ### Proyectos personales — Full Stack Developer
