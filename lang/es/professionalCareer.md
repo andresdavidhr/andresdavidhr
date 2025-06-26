@@ -11,11 +11,11 @@
 *2018 - Actualidad*
 - Desarrollo de aplicaciones web y móviles.
 - Automatización de tareas y microservicios.
-- Tecnologías: Flutter, Node.js, Python, PostgreSQL, Git.
+- Tecnologías: Flutter, Node.js, Python, MySQL, Git.
 
 ### Profesor particular — Mentoría tecnológica
 *2020 - Actualidad*
-- Clases particulares de Java, Node.js, Flutter y SQL.
+- Clases particulares de Linux, Shell Script, Java, Node.js, Flutter y SQL.
 - Orientación práctica y personalizada para estudiantes y profesionales.
 
 ---
