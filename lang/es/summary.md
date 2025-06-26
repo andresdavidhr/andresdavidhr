@@ -27,7 +27,7 @@ Me gusta construir soluciones robustas, confiables y con impacto real en el nego
 ### 🔹 Full Stack Developer
 **Proyectos personales (2018 - presente)**
 - Desarrollo de aplicaciones móviles y web.
-- Techs: Flutter, Node.js, Python, PostgreSQL, Git.
+- Techs: Flutter, Node.js, Python, MySQL, Git.
 - Automatización de tareas y microservicios.
 
 ### 🔹 Profesor particular
@@ -58,5 +58,16 @@ Me gusta construir soluciones robustas, confiables y con impacto real en el nego
 🚀 Siempre abierto a ideas, desafíos o colaboraciones
 
 Gracias por visitar mi perfil 🙌
+
+
+---
+
+<!--- - [Resumen](summary.md) -->
+- [Sobre mi](about.md)
+- [Formación y cursos](training.md)
+- [Logros](archivements.md)
+- [Carrera profesional](professionalCareer.md)
+- [Proyectos personales](personalProjects.md)
+- [Contacto](contact.md)
 
 - [Volver a inicio](/README.md)
