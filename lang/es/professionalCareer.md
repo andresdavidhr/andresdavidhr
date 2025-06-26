@@ -2,16 +2,19 @@
 
 ### NTT Data (España) — Senior Business Analyst & System Admin
 *2018 - Actualidad*
-- Soporte 24/7 para entornos críticos de Data Warehouse.
-- Automatización de procesos y cargas de datos.
+- Soporte 24/7 para entornos críticos.
+- Automatización y optimización de procesos y cargas de datos.
 - Coordinación con cliente, informes de estado y gestión de incidencias.
 - Uso avanzado de Linux, Shell Script, Oracle, Control-M, MicroStrategy.
+- Gestión de tickets JIRA y seguimiento del estado del sistema de forma continua.
+- Tecnologias principales: Oracle, Shell script, Datawarehause, Microstrategy y Control-M.
 
 ### Proyectos personales — Full Stack Developer
 *2018 - Actualidad*
 - Desarrollo de aplicaciones web y móviles.
 - Automatización de tareas y microservicios.
-- Tecnologías: Flutter, Node.js, Python, MySQL, Git.
+- Algunos proyectos privados están resumidos en punto de [Proyectos personales](personalProjects.md)
+- Tecnologías principales: Flutter, Node.js, Python, MySQL, Git.
 
 ### Profesor particular — Mentoría tecnológica
 *2020 - Actualidad*
