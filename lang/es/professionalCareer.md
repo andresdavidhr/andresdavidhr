@@ -23,7 +23,7 @@
 
 ### 📄 Descarga mi CV
 Puedes descargar mi currículum actualizado aquí:
-[Descargar CV (PDF)](/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
+[Descargar CV (PDF)](/es/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
 
 ---
 
