@@ -2,10 +2,8 @@
 
 🚀 Siempre abierto a ideas, desafíos, proyectos freelance o colaboraciones tecnológicas.
 
-🌐 [www.linkedin.com/in/andresdavidhr](https://www.linkedin.com/in/andresdavidhr)
-✉️ andresdavidh11 [at] gmail [dot] com
-📞 +31 625 264 090
-📞 +34 633 127 885
+- 🌐 [www.linkedin.com/in/andresdavidhr](https://www.linkedin.com/in/andresdavidhr)
+- ✉️ andresdavidh11@gmail.com
 
 ¿Buscas mentoría, colaboración en proyectos de datos, automatización o charlas técnicas? ¡No dudes en escribirme!
 
