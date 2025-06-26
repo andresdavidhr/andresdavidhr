@@ -19,16 +19,9 @@
 
 ---
 
-<p align="center">
   <b>🌍 Idioma / Language</b><br>
-  <a href="#-español"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="32" alt="Español"></a>
-  &nbsp;|&nbsp;
-  <a href="#-english"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="32" alt="English"></a>
-</p>
 
----
-
-<details open>
+<details>
   <summary id="-español">🇪🇸 Español</summary>
 
 ¡Hola! Soy Andrés David, ingeniero especializado en datos y DevOps. Me apasiona la automatización, la fiabilidad y la mejora continua en entornos críticos.
@@ -42,6 +35,9 @@ En este repositorio encontrarás información sobre mi experiencia, proyectos, f
 - [Proyectos personales](lang/es/personalProjects.md)
 - [Contacto](lang/es/contact.md)
 </details>
+
+
+---
 
 <details>
   <summary id="-english">🇬🇧 English</summary>
