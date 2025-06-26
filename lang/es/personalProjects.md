@@ -1,5 +1,7 @@
-## 🤝 Proyectos personales destacados
+## 🚀 Proyectos personales destacados
 
+Desarrollo proyectos propios para aprender, experimentar y aportar soluciones a problemas reales.
+Aquí puedes ver algunos de los más relevantes, con diferentes tecnologías y enfoques.
 
 | Nº  | Nombre       | Estado                                                                | Tecnologías principales | Año inicio | Última actualización | Descripción                                                | Enlace                              |
 | --- | ------------ | --------------------------------------------------------------------- | ----------------------- | ---------- | -------------------- | ---------------------------------------------------------- | ---------------------------------   |
@@ -11,6 +13,7 @@
 | 6   | Tours        | ![Desarrollo](https://img.shields.io/badge/Desarrollo-yellow)         | Flutter                 | 2023       | 2025                 | App móvil para gestión de guías turísticos.                | Privado                             |
 | 7   | Boda01       | ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen)    | Flutter, Nginx          | 2023       | 2023                 | Web personalizada (StarWars) para control de invitados.    | Privado                             |
 | 8   | Boda02       | ![Producción](https://img.shields.io/badge/Producción-blue)           | Flutter, Nginx          | 2025       | 2025                 | Web personalizada para control de invitados.               | Privado                             |
+| 9   | Rodolphus    | ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen)    | Flutter.                | 2023       | 2023                 | App móvil para gestión personal.                           | Privado                             |
 
 
 
