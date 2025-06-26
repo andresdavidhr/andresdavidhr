@@ -7,6 +7,14 @@
 
 ¿Buscas mentoría, colaboración en proyectos de datos, automatización o charlas técnicas? ¡No dudes en escribirme!
 
+---
+
+## 📄 Descarga mi CV
+Puedes descargar mi currículum actualizado aquí:
+[Descargar CV (PDF)](/es/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
+
+---
+
 Gracias por visitar mi perfil 🙌
 
 ---
@@ -15,7 +23,7 @@ Gracias por visitar mi perfil 🙌
 - [Sobre mi](about.md)
 - [Formación y cursos](training.md)
 - [Logros](archivements.md)
- - [Carrera profesional](professionalCareer.md)
+- [Carrera profesional](professionalCareer.md)
 - [Proyectos personales](personalProjects.md)
 <!-- - [Contacto](contact.md) -->
 

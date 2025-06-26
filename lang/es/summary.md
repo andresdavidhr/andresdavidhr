@@ -65,8 +65,15 @@ Detalle en: [Formación y cursos](training.md)
 🌐 [www.linkedin.com/in/andresdavidhr](https://www.linkedin.com/in/andresdavidhr)
 🚀 Siempre abierto a ideas, desafíos o colaboraciones
 
-Gracias por visitar mi perfil 🙌
+---
 
+## 📄 Descarga mi CV
+Puedes descargar mi currículum actualizado aquí:
+[Descargar CV (PDF)](/es/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
+
+---
+
+Gracias por visitar mi perfil 🙌
 
 ---
 
