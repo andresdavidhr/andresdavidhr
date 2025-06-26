@@ -2,16 +2,18 @@
 
 ## 🧠 Sobre mí
 
-Apasionado por los datos, la automatización y los procesos eficientes. Con experiencia en soporte 24/7 de entornos críticos, desarrollo de scripts personalizados y gestión de entornos Linux.
-Me gusta construir soluciones robustas, confiables y con impacto real en el negocio.
+Me motiva encontrar soluciones prácticas y fiables, automatizar tareas y aportar tranquilidad en entornos críticos.
+Disfruto trabajando con Linux, scripting y tecnologías de datos, siempre buscando que el resultado tenga un impacto real y positivo en el día a día de los equipos.
+
+Detalle en: [Sobre mi](about.md)
 
 ---
 
 ## 🧰 Tecnologías
 
-| 🗃️ Data & BI                    | 🖥️ Backend & DevOps                     | 📊 Dashboards                      | 📱 Móvil / Otros                  |
+| 🗃️ Data & BI                   | 🖥️ Backend & DevOps                    | 📊 Dashboards                     | 📱 Móvil / Otros                 |
 | ------------------------------ | -------------------------------------- | --------------------------------- | -------------------------------- |
-| Oracle, PostgreSQL, MySQL, SQL | Linux, Shell Script, Python, Control-M | MicroStrategy, Power BI, Metabase | Flutter/Dart, Git, Node.js, Java |
+| Oracle, PostgreSQL, MySQL, SQL | Linux, Shell Script, Python, Control-M | MicroStrategy                     | Flutter/Dart, Git, Node.js, Java |
 
 ---
 
@@ -34,21 +36,27 @@ Me gusta construir soluciones robustas, confiables y con impacto real en el nego
 - Impartí clases particulares de **Java, Node.js, Flutter y SQL** a estudiantes y profesionales.
 - Clases orientadas a proyectos reales, comprensión de la lógica de programación y prácticas aplicadas.
 
+Detalle en: [Carrera profesional](professionalCareer.md)
+
 ---
 
 ## ✨ Logros
 
-- 🛡️ Reducción de incidentes críticos a casi cero mediante automatización.
+- 🛡️ Reducción de incidentes críticos a casi cero mediante automatización y validaciones previas.
 - 🔄 Sistema de ejecución con scripts reutilizables.
 - 🧰 Gestión de cargas para múltiples proyectos simultáneamente.
+
+Detalle en: [Logros](archivements.md)
 
 ---
 
 ## 📚 Formación
 
-🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma
-📘 Cursos: Git, Python, Node.js, Docker, AWS/GCP, Linux, Shell
-✅ Certificación: *Cloud Digital Leader (2024)*
+- 🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma
+- 📘 Cursos: Git, Python, Node.js, Docker, AWS/GCP, Linux, Shell
+- ✅ Certificación: *Cloud Digital Leader (2024)*
+
+Detalle en: [Formación y cursos](training.md)
 
 ---
 
