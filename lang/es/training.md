@@ -28,6 +28,7 @@ A lo largo de mi carrera he apostado por la formación continua, combinando estu
 
 ---
 ### 📖 Cursos de NTTData
+
  Nº  | Título                               | Horas | Año  |
 | 1  | Pendiente                            | 2     | 2018 |
 
