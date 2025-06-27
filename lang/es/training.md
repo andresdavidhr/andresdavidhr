@@ -1,63 +1,49 @@
 - [Volver a inicio](/README.md)
 
-## 🧠 Sobre mí
-
-Apasionado por los datos, la automatización y los procesos eficientes. Con experiencia en soporte 24/7 de entornos críticos, desarrollo de scripts personalizados y gestión de entornos Linux.
-Me gusta construir soluciones robustas, confiables y con impacto real en el negocio.
-
----
-
-## 🧰 Tecnologías
-
-| 🗃️ Data & BI                    | 🖥️ Backend & DevOps                     | 📊 Dashboards                      | 📱 Móvil / Otros                  |
-| ------------------------------ | -------------------------------------- | --------------------------------- | -------------------------------- |
-| Oracle, PostgreSQL, MySQL, SQL | Linux, Shell Script, Python, Control-M | MicroStrategy, Power BI, Metabase | Flutter/Dart, Git, Node.js, Java |
-
----
-
-## 📈 Experiencia Destacada
-
-### 🔹 Senior Business Analyst & System Admin
-**NTT Data (España, 2018 - presente)**
-- Soporte 24/7 para entornos de data warehouse.
-- Automatización de cargas y flujos de datos.
-- Coordinación con cliente, informes de estado, y monitoreo de procesos.
-- Uso avanzado de Linux, Shell, Oracle, Control-M, MicroStrategy.
-
-### 🔹 Full Stack Developer
-**Proyectos personales (2018 - presente)**
-- Desarrollo de aplicaciones móviles y web.
-- Techs: Flutter, Node.js, Python, PostgreSQL, Git.
-- Automatización de tareas y microservicios.
-
-### 🔹 Profesor particular
-- Impartí clases particulares de **Java, Node.js, Flutter y SQL** a estudiantes y profesionales.
-- Clases orientadas a proyectos reales, comprensión de la lógica de programación y prácticas aplicadas.
-
----
-
-## ✨ Logros
-
-- 🛡️ Reducción de incidentes críticos a casi cero mediante automatización.
-- 🔄 Sistema de ejecución con scripts reutilizables.
-- 🧰 Gestión de cargas para múltiples proyectos simultáneamente.
-
----
-
 ## 📚 Formación
 
-🎓 Técnico en Desarrollo de Aplicaciones Multiplataforma
-📘 Cursos: Git, Python, Node.js, Docker, AWS/GCP, Linux, Shell
-✅ Certificación: *Cloud Digital Leader (2024)*
+A lo largo de mi carrera he apostado por la formación continua, combinando estudios reglados con certificaciones y cursos especializados en tecnologías de datos, automatización y DevOps.
 
 ---
 
-## 🤝 ¿Colaboramos?
+### 🎓 Estudios
 
-🌐 [www.linkedin.com/in/andresdavidhr](https://www.linkedin.com/in/andresdavidhr)
-🚀 Siempre abierto a ideas, desafíos o colaboraciones
+- **Grado superior en desarrollo de aplicaciones multiplataforma (DAM)**
+  IES Alquerias
+  *2016 - 2018*
 
-Gracias por visitar mi perfil 🙌
+---
+
+### 🏅 Certificaciones
+
+- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud)
+  *Google Cloud Digital Leader* (2024)
+
+### 🌐 Idiomas
+
+| Idioma  | Nivel      |
+| ------- | ---------- |
+| Español | Nativo     |
+| Inglés  | Intermedio |
+
+---
+### 📖 Cursos de NTTData
+ Nº  | Título                               | Horas | Año  |
+| 1  | Pendiente                            | 2     | 2018 |
+
+### 📖 Cursos de Udemy
+
+| Nº  | Título                                                          | Horas | Año  | Enlace                         |
+| --- | --------------------------------------------------------------- | ----- | ---- | ------------------------------ |
+| 1   | ¡Business Intelligence para todos!                              | 2     | 2018 | [🔗](https://www.udemy.com/course/business-intelligence-para-todos-o/learn/lecture/30608002?start=0#overview)    |
+| 2   | Visual Studio Code: Mejora tu velocidad para codificar          | 2     | 2018 | [🔗](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13932368?start=0#overview)    |
+| 3   | Git desde cero!                                                 | 1,5   | 2021 | [🔗](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13932374?start=0#overview) |
+| 4   | Curso de Git y la Terminal de comandos - Para programadores     | 3     | 2019 | [🔗](https://www.udemy.com/course/curso-de-git-y-la-terminal-de-comandos-para-programadores/learn/lecture/7533102?start=0#overview) |
+| 5   | Empieza siendo productivo con Vim en Linux, windows, Mac y Unix | 1,5   | 2019 | [🔗](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/learn/lecture/15495752?start=0#overview) |
+| 6   | Node: De cero a experto - 2022                                  | 29    | 2022 | [🔗](https://www.udemy.com/course/node-de-cero-a-experto/learn/lecture/35111232?start=15#overview) |
+| 7   | Flutter: Tu guía completa para IOS y Android - 2022             | 37,5  | 2022 | [🔗](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/learn/lecture/14272980?start=0#overview) |
+| 8   | Python Practicando. Desde 0 hasta Desarrollador en Python       | 28    | 2022 | [🔗](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/learn/lecture/29252408?start=0#overview) |
+
 
 ---
 
