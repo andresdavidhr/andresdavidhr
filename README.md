@@ -18,10 +18,6 @@
 </p>
 
 ---
-
-  <b>🌍 Idioma / Language</b><br>
-
----
 <details>
   <summary id="-español">🇪🇸 Español</summary>
 
