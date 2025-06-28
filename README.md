@@ -1,20 +1,47 @@
 <h1 align="center">Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 
+<!-- Core Technologies -->
 <p align="center">
+  <b>🖥️ Core Technologies</b><br>
   <img src="https://img.shields.io/badge/Linux-Expert-black?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell%20Script-Advanced-blue?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Advanced-lightgrey?logo=mysql" />
-  <img src="https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
 </p>
 
+<!-- Web & Mobile Development -->
 <p align="center">
+  <b>🌐 Web & Mobile Development</b><br>
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-Intermediate-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-Intermediate-F8DC75?logo=apachetomcat&logoColor=black" />
+</p>
+
+<!-- Databases -->
+<p align="center">
+  <b>🗄️ Databases</b><br>
+  <img src="https://img.shields.io/badge/Oracle-Advanced-F80000?logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white" />
+</p>
+
+<!-- BI & Cloud -->
+<p align="center">
+  <b>📊 Business Intelligence & Cloud</b><br>
+  <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud" />
+</p>
+
+<!-- Tools & Orchestration -->
+<p align="center">
+  <b>⚙️ Tools & Orchestration</b><br>
+  <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-Advanced-0052CC?logo=jira&logoColor=white" />
 </p>
 
 ---
