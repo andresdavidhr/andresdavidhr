@@ -50,6 +50,7 @@
 ---
 
 <details>
+
   <summary id="-español">🇪🇸 Información en español</summary>
 
 ¡Hola! Soy Andrés David, ingeniero especializado en datos y DevOps. Me apasiona la automatización, la fiabilidad y la mejora continua en entornos críticos.
@@ -67,6 +68,7 @@ En este repositorio encontrarás información sobre mi experiencia, proyectos, f
 ---
 
 <details>
+
   <summary id="-english">🇬🇧 Information in English</summary>
 
 Hi! I'm Andrés David, a Data & DevOps Engineer passionate about automation, reliability, and continuous improvement in critical environments.
@@ -84,6 +86,7 @@ In this repository you will find information about my experience, projects, educ
 ---
 
 <details open>
+
   <summary>📊 Stats & Activity</summary>
 
 
