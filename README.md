@@ -1,6 +1,8 @@
 <h1 align="center">Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 
+<img src="assets/img/working02.gif" alt="Working" width="180" />
+
 <!-- Core Technologies -->
 <b>🖥️ Core Technologies</b><br>
 <br>
