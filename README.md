@@ -1,8 +1,9 @@
 <h1 align="center">Andrés David Hernández Rocamora</h1>
 <p align="center"><i>💻 Senior Data & DevOps Engineer</i></p>
 
-<img src="assets/img/working02.gif" alt="Working" width="180" />
-
+<p align="center">
+  <img src="assets/img/working02.gif" alt="Working" width="180" />
+</p>
 <!-- Core Technologies -->
 <b>🖥️ Core Technologies</b><br>
 <br>
@@ -76,6 +77,23 @@ In this repository you will find information about my experience, projects, educ
 </details>
 
 ---
+
+<details>
+  <summary>📊 Stats & Activity</summary>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdavidhr&theme=default" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andresdavidhr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+</details>
+
+---
+
 
 <p align="center">
   <sub>
