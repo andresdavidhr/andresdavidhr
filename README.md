@@ -79,7 +79,7 @@ In this repository you will find information about my experience, projects, educ
 
 ---
 
-<details>
+<details open>
   <summary>📊 Stats & Activity</summary>
 
 <p align="left">
