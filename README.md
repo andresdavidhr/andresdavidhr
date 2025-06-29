@@ -94,7 +94,6 @@ In this repository you will find information about my experience, projects, educ
   <tr>
     <th>🐙 GitHub Stats</th>
     <th>🔥 GitHub Streak</th>
-    <th>💻 Top Languages</th>
     <th>📈 Contribution Graph</th>
   </tr>
   <tr>
@@ -103,9 +102,6 @@ In this repository you will find information about my experience, projects, educ
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdavidhr&theme=default" alt="GitHub Streak" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdavidhr&layout=compact&theme=default" alt="Top Languages" height="150"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdavidhr&theme=github" alt="Contribution Graph" height="200"/>
