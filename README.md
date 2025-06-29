@@ -4,6 +4,7 @@
 <p align="center">
   <img src="assets/img/working02.gif" alt="Working" width="180" />
 </p>
+
 <!-- Core Technologies -->
 <b>🖥️ Core Technologies</b><br>
 <br>
