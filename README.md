@@ -87,13 +87,37 @@ In this repository you will find information about my experience, projects, educ
   <summary>📊 Stats & Activity</summary>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdavidhr&theme=default" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=andresdavidhr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
+<table>
+  <tr>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24"/> GitHub Stats</th>
+    <th><img src="https://img.icons8.com/ios-filled/24/000000/fire-element.png" alt="Streak" width="24"/> GitHub Streak</th>
+    <th><img src="https://img.icons8.com/ios-filled/24/000000/source-code.png" alt="Top Languages" width="24"/> Top Languages</th>
+    <th><img src="https://img.icons8.com/ios-filled/24/000000/clock--v1.png" alt="Commits" width="24"/> Commits this year</th>
+    <th><img src="https://img.icons8.com/ios-filled/24/000000/combo-chart--v1.png" alt="Contribution Graph" width="24"/> Contribution Graph</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdavidhr&theme=default" alt="GitHub Streak" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdavidhr&layout=compact&theme=default" alt="Top Languages" height="150"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/y/andresdavidhr/andresdavidhr" alt="Commits this year"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdavidhr&theme=github" alt="Contribution Graph" height="200"/>
+    </td>
+  </tr>
+</table>
+
+
 
 </details>
 
