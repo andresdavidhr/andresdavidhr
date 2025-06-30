@@ -21,7 +21,7 @@
     <td>
       <img src="https://img.shields.io/badge/Linux-Expert-black?logo=linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql" /><br>
+      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
@@ -41,7 +41,7 @@
     <td>
       <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud" />
+      <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" /><br>
