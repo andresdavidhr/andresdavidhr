@@ -20,9 +20,8 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Linux-Expert-black?logo=linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Shell%20Script-Advanced-blue?logo=gnu-bash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-Advanced-4EAA25?logo=gnubash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-Advanced-lightgrey?logo=mysql" /><br>
+      <img src="https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql" /><br>
       <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
@@ -30,9 +29,9 @@
     <td>
       <img src="https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Nginx-Intermediate-009639?logo=nginx&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tomcat-Intermediate-F8DC75?logo=apachetomcat&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tomcat-Intermediate-F8DC75?logo=apachetomcat&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Oracle-Advanced-F80000?logo=oracle&logoColor=white" /><br>
@@ -41,7 +40,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud" />
     </td>
     <td>
