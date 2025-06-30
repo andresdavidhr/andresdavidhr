@@ -43,6 +43,7 @@
     <td>
       <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JIRA-Advanced-0052CC?logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-Intermediate-000000?logo=markdown&logoColor=white" />
     </td>
   </tr>
 </table>
