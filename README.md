@@ -41,7 +41,7 @@
     <td>
       <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud" />
+      <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" /><br>
