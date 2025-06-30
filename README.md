@@ -21,8 +21,6 @@
     <td>
       <img src="https://img.shields.io/badge/Linux-Expert-black?logo=linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
     </td>
@@ -34,6 +32,7 @@
       <img src="https://img.shields.io/badge/Tomcat-Intermediate-F8DC75?logo=apachetomcat&logoColor=white" />
     </td>
     <td>
+      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Oracle-Advanced-F80000?logo=oracle&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white" />
@@ -47,6 +46,7 @@
       <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JIRA-Advanced-0052CC?logo=jira&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Markdown-Intermediate-000000?logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
     </td>
 
 ---
