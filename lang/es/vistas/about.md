@@ -16,7 +16,8 @@ Uno de los aspectos más gratificantes de mi rol ha sido colaborar con diferente
 Mi enfoque siempre ha sido proactivo, buscando constantemente nuevas formas de mejorar los sistemas y procesos existentes. Esta mentalidad me ha permitido mantenerme a la vanguardia de las últimas tendencias y tecnologías en el sector de IT (en medida de lo posible), asegurando que nuestras soluciones de data warehouse sean robustas, escalables y eficientes.
 
 Estoy orgulloso de los logros que hemos alcanzado como equipo y estoy agradecido por las oportunidades de aprendizaje y crecimiento que he tenido a lo largo de estos años.
-Estoy ansioso por continuar contribuyendo al éxito de la empresa y seguir desarrollándome profesionalmente en este apasionante campo.
+
+Para finalizar, estoy ansioso por continuar contribuyendo y seguir desarrollándome profesionalmente en este apasionante campo.
 
 ### 🛠️ Software destacado que uso en mi dia a dia
 
