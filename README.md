@@ -48,6 +48,7 @@
       <img src="https://img.shields.io/badge/Markdown-Intermediate-000000?logo=markdown&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
     </td>
+</tr>
 </table>
 ---
 
