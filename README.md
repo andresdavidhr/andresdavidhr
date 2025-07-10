@@ -97,15 +97,11 @@ In this repository you will find information about my experience, projects, educ
 <table>
   <tr>
     <th>🐙 GitHub Stats</th>
-    <th>🔥 GitHub Streak</th>
     <th>📈 Contribution Graph</th>
   </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdavidhr&theme=default" alt="GitHub Streak" height="150"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdavidhr&theme=github" alt="Contribution Graph" height="200"/>
