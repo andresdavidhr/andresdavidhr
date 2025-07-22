@@ -13,8 +13,9 @@ Aquí puedes ver algunos de los más relevantes, con diferentes tecnologías y e
 | 6   | Tours        | ![Desarrollo](https://img.shields.io/badge/Desarrollo-yellow)         | Flutter                 | 2023       | 2025                 | App móvil para gestión de guías turísticos.                | Privado                             |
 | 7   | Boda01       | ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen)    | Flutter, Nginx          | 2023       | 2023                 | Web personalizada (StarWars) para control de invitados.    | Privado                             |
 | 8   | Boda02       | ![Producción](https://img.shields.io/badge/Producción-blue)           | Flutter, Nginx          | 2025       | 2025                 | Web personalizada para control de invitados.               | Privado                             |
-| 9   | Rodolphus    | ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen)    | Flutter.                | 2023       | 2023                 | App móvil para gestión personal.                           | Privado                             |
-
+| 9   | Rodolphus    | ![Finalizado](https://img.shields.io/badge/Finalizado-brightgreen)    | Flutter                 | 2023       | 2023                 | App móvil para gestión personal.                           | Privado                             |
+| 10  | portable-scripts | ![Production](https://img.shields.io/badge/Production-blue)       | Shell Script            | 2018       | 2025                 | Scripts random                                             | [🔗](infoApp/portable-scripts)      |
+| 11  | linux-disk-cleaner | ![Production](https://img.shields.io/badge/Production-blue)     | Shell Script            | 2018       | 2025                 | Script para la limpieza de disco en sistemas Linux         | [🔗](infoApp/linux-disk-cleaner.md) |
 
 
 - Descripción de estados:
