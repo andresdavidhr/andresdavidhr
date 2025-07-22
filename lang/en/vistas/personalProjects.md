@@ -14,6 +14,9 @@ Here you can see some of the most relevant ones, with different technologies and
 | 7   | Boda01       | ![Completed](https://img.shields.io/badge/Completed-brightgreen) | Flutter, Nginx          | 2023       | 2023        | Custom web (StarWars) for guest control.                      | Private                      |
 | 8   | Boda02       | ![Production](https://img.shields.io/badge/Production-blue)      | Flutter, Nginx          | 2025       | 2025        | Custom web for guest control.                                 | Private                      |
 | 9   | Rodolphus    | ![Completed](https://img.shields.io/badge/Completed-brightgreen) | Flutter                 | 2023       | 2023        | Mobile app for personal management.                           | Private                      |
+| 10  | portable-scripts   | ![Production](https://img.shields.io/badge/Production-blue) | Shell Script           | 2018       | 2025        | Random useful scripts                                         | [🔗](infoApp/portable-scripts.md)    |
+| 11  | linux-disk-cleaner | ![Production](https://img.shields.io/badge/Production-blue) | Shell Script           | 2018       | 2025        | Script for disk cleanup on Linux systems                      | [🔗](infoApp/linux-disk-cleaner.md) |
+
 
 - Status descriptions:
 
