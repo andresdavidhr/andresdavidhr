@@ -1,4 +1,4 @@
-## 🖥️ Portable-Scripts
+## 🖥️ Hestia-portable-scripts
 
 Colección de scripts de shell útiles para automatizar tareas comunes en sistemas Unix/Linux.
 
@@ -7,9 +7,9 @@ Colección de scripts de shell útiles para automatizar tareas comunes en sistem
 ### 📝 Detalles del proyecto
 
 - **🌐 Estado:** ![Producción](https://img.shields.io/badge/Producción-blue)
-- **🗓️ Año de inicio:** 2018
+- **🗓️ Año de inicio:** 2025
 - **🔄 Última actualización:** 2025
-- **📁 Repositorio:** [🔗 portable-scripts](https://github.com/andresdavidhr/portable-scripts)
+- **📁 Repositorio:** [🔗 hestia-portable-scripts](https://github.com/andresdavidhr/hestia-portable-scripts)
 
 ---
 
@@ -27,8 +27,8 @@ Colección de scripts de shell útiles para automatizar tareas comunes en sistem
 ---
 
 ### 🧩 Scripts Disponibles
-| Nº  | Nombre    | Descripción                                                               |
-| --- | --------- | ------------------------------------------------------------------------- |
+| Nº  | Nombre              | Descripción                                                     |
+| --- | ------------------- | --------------------------------------------------------------- |
 | 1   | `flog.sh`           | Sistema de logging estructurado para registrar eventos.         |
 | 2   | `fnc_is_sourced.sh` | Detecta si un script fue ejecutado con `source` o directamente. |
 | 3   | `lk.sh`             | Buscador de archivos con listado detallado.                     |

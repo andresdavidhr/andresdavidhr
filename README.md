@@ -60,13 +60,13 @@
 ¡Hola! Soy Andrés David, ingeniero especializado en datos y DevOps. Me apasiona la automatización, la fiabilidad y la mejora continua en entornos críticos.
 En este repositorio encontrarás información sobre mi experiencia, proyectos, formación y logros.
 
-- [Resumen](lang/es/vistas/summary.md)
-- [Sobre mí](lang/es/vistas/about.md)
-- [Formación y cursos](lang/es/vistas/training.md)
-- [Logros](lang/es/vistas/archivements.md)
-- [Carrera profesional](lang/es/vistas/professionalCareer.md)
-- [Proyectos personales](lang/es/vistas/personalProjects.md)
-- [Contacto](lang/es/vistas/contact.md)
+- [Resumen](lang/es/summary.md)
+- [Sobre mí](lang/es/about.md)
+- [Formación y cursos](lang/es/training.md)
+- [Logros](lang/es/archivements.md)
+- [Carrera profesional](lang/es/professionalCareer.md)
+- [Proyectos personales](lang/es/personalProjects.md)
+- [Contacto](lang/es/contact.md)
 </details>
 
 ---
@@ -78,13 +78,13 @@ En este repositorio encontrarás información sobre mi experiencia, proyectos, f
 Hi! I'm Andrés David, a Data & DevOps Engineer passionate about automation, reliability, and continuous improvement in critical environments.
 In this repository you will find information about my experience, projects, education, and achievements.
 
-- [Summary](lang/en/vistas/summary.md)
-- [About me](lang/en/vistas/about.md)
-- [Training and courses](lang/en/vistas/training.md)
-- [Achievements](lang/en/vistas/archivements.md)
-- [Professional career](lang/en/vistas/professionalCareer.md)
-- [Personal projects](lang/en/vistas/personalProjects.md)
-- [Contact](lang/en/vistas/contact.md)
+- [Summary](lang/en/summary.md)
+- [About me](lang/en/about.md)
+- [Training and courses](lang/en/training.md)
+- [Achievements](lang/en/archivements.md)
+- [Professional career](lang/en/professionalCareer.md)
+- [Personal projects](lang/en/personalProjects.md)
+- [Contact](lang/en/contact.md)
 </details>
 
 ---

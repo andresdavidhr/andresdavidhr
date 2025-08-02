@@ -1,4 +1,4 @@
-## 🖥️ Portable-Scripts
+## 🖥️ Hestia-linux-disk-cleaner
 
 Script automatizado para la limpieza de disco en sistemas Linux.
 
@@ -7,9 +7,9 @@ Script automatizado para la limpieza de disco en sistemas Linux.
 ### 📝 Detalles del proyecto
 
 - **🌐 Estado:** ![Producción](https://img.shields.io/badge/Producción-blue)
-- **🗓️ Año de inicio:** 2018
+- **🗓️ Año de inicio:** 2025
 - **🔄 Última actualización:** 2025
-- **📁 Repositorio:** [🔗 linux-disk-cleaner](https://github.com/andresdavidhr/linux-disk-cleaner)
+- **📁 Repositorio:** [🔗 hestia-linux-disk-cleaner](https://github.com/andresdavidhr/hestia-linux-disk-cleaner)
 
 ---
 

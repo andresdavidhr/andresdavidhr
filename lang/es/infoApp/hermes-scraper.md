@@ -1,6 +1,6 @@
-## 🤖 ADHR_Scraper
+## 🤖 Hermes-scraper
 
-ADHR_Scraper es una herramienta desarrollada para la **automatización de la recolección de datos web**.
+Hermes-scraper es una herramienta desarrollada para la **automatización de la recolección de datos web**.
 Permite extraer información de diferentes fuentes de manera eficiente y estructurada, facilitando la integración y el análisis de datos.
 El proyecto prioriza la robustez, la escalabilidad y la facilidad de mantenimiento.
 
@@ -9,7 +9,7 @@ El proyecto prioriza la robustez, la escalabilidad y la facilidad de mantenimien
 ### 📝 Detalles del proyecto
 
 - **🌐 Estado:** ![Producción](https://img.shields.io/badge/Producción-blue)
-- **🗓️ Año de inicio:** 2019
+- **🗓️ Año de inicio:** 2024
 - **🔄 Última actualización:** 2025
 - **💻 Tecnologías:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 

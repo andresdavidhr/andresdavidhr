@@ -69,7 +69,7 @@ Detalle en: [Formación y cursos](training.md)
 
 ## 📄 Descarga mi CV
 Puedes descargar mi currículum actualizado aquí:
-[Descargar CV (PDF)](/es/cv/ANDRESDAVIDHERNANDEZROCAMORA_es.pdf)
+[Descargar CV](https://docs.google.com/document/d/13fn7L3gCuh0YGaCcO7R74xWNNBeQAHU-IqxXEURr5bE/edit?usp=drive_link)
 
 ---
 

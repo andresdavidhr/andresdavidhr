@@ -10,7 +10,7 @@ A lo largo de mi carrera he apostado por la formación continua, combinando estu
 
 - **Grado superior en desarrollo de aplicaciones multiplataforma (DAM)**
   IES Alquerias
-  *2016 - 2018*
+  *2015 - 2017*
 
 ---
 

@@ -10,7 +10,7 @@ Throughout my career I have committed to continuous learning, combining formal s
 
 - **Higher degree in multiplatform application development (DAM)**
   IES Alquerias
-  *2016 - 2018*
+  *2015 - 2017*
 
 ---
 

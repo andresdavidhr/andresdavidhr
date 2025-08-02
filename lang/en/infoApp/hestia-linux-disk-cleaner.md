@@ -1,4 +1,4 @@
-## 🖥️ Linux Disk Cleaner
+## 🖥️ Hestia-linux-disk-cleaner
 
 Automated script for disk cleanup on Linux systems.
 
@@ -7,9 +7,9 @@ Automated script for disk cleanup on Linux systems.
 ### 📝 Project details
 
 - **🌐 Status:** ![Production](https://img.shields.io/badge/Production-blue)
-- **🗓️ Start year:** 2018
+- **🗓️ Start year:** 2025
 - **🔄 Last update:** 2025
-- **📁 Repository:** [🔗 linux-disk-cleaner](https://github.com/andresdavidhr/linux-disk-cleaner)
+- **📁 Repository:** [🔗 linux-disk-cleaner](https://github.com/andresdavidhr/hestia-linux-disk-cleaner)
 
 ---
 

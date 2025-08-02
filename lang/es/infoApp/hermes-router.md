@@ -9,7 +9,7 @@ El proyecto destaca por su flexibilidad, escalabilidad y facilidad de adaptació
 ### 📝 Detalles del proyecto
 
 - **🌐 Estado:** ![Producción](https://img.shields.io/badge/Producción-blue)
-- **🗓️ Año de inicio:** 2018
+- **🗓️ Año de inicio:** 2021
 - **🔄 Última actualización:** 2025
 - **💻 Tecnologías:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
