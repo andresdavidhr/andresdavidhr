@@ -69,7 +69,7 @@ Detail in: [Training and courses](training.md)
 
 ## 📄 Download my CV
 You can download my updated resume here:
-[Download CV](https://docs.google.com/document/d/1Y2PTBd1ppCwIf0WcMc4WrcyZFuIGDknIba02sI-c3_4/edit?usp=drive_link)
+[Download CV](https://docs.google.com/document/d/1LlORkKk9pT2tGVUcwBEfN0MEvcaVF0eKmswDYSChnew/edit?usp=sharing)
 
 ---
 
