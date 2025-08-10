@@ -98,20 +98,23 @@ In this repository you will find information about my experience, projects, educ
   <tr>
     <th>🐙 GitHub Stats</th>
     <th>📈 Contribution Graph</th>
+    <th>🏆 Top Languages</th>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=andresdavidhr&show_icons=true&theme=default" alt="GitHub Stats" height="200"/>
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdavidhr&theme=github" alt="Contribution Graph" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdavidhr&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
     </td>
   </tr>
 </table>
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=andresdavidhr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   <img src="https://img.shields.io/github/commit-activity/y/andresdavidhr/andresdavidhr" alt="Commits this year"/>
 </p>
 
