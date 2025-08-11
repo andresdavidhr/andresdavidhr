@@ -108,7 +108,7 @@ In this repository you will find information about my experience, projects, educ
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=andresdavidhr&theme=github" alt="Contribution Graph" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdavidhr&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdavidhr&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
     </td>
   </tr>
 </table>
