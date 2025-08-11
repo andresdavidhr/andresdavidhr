@@ -10,9 +10,10 @@ Here you can see some of the most relevant ones, with different technologies and
 | 3   | Gaia-tour                 | ![Development](https://img.shields.io/badge/Development-yellow)  | Flutter                 | 2023       | 2025        | Mobile app for tour guide management.                         | Private                                    |
 | 4   | Hera-v1-starWars          | ![Completed](https://img.shields.io/badge/Completed-brightgreen) | Flutter, Nginx          | 2023       | 2023        | Custom web (StarWars) for guest control.                      | Private                                    |
 | 5   | Hera-v2-japon             | ![Production](https://img.shields.io/badge/Production-blue)      | Flutter, Nginx          | 2025       | 2025        | Custom web for guest control.                                 | Private                                    |
-| 6   | Hestia-portable-scripts   | ![Production](https://img.shields.io/badge/Production-blue)      | Shell Script            | 2025       | 2025        | Random useful scripts                                         | [🔗](infoApp/hestia-portable-scripts.md)   |
 | 7   | Hestia-linux-disk-cleaner | ![Production](https://img.shields.io/badge/Production-blue)      | Shell Script            | 2025       | 2025        | Script for disk cleanup on Linux systems                      | [🔗](infoApp/hestia-linux-disk-cleaner.md) |
-
+| 6   | Hestia-utils-shells       | ![Production](https://img.shields.io/badge/Production-blue)      | Shell Script            | 2025       | 2025        | Random useful scripts of shell                                | [🔗](infoApp/hestia-utils-shells.md)       |
+| 8   | Hestia-utils-python       | ![Production](https://img.shields.io/badge/Production-blue)      | Python                  | 2025       | 2025        | Random useful scripts of python                               | [🔗](infoApp/hestia-utils-python.md)       |
+| 9   | Hestia-utils-flutter      | ![Production](https://img.shields.io/badge/Production-blue)      | Flutter, Dart           | 2025       | 2025        | Random useful scripts of flutter                              | [🔗](infoApp/hestia-utils-flutter.md)      |
 
 - Status descriptions:
 

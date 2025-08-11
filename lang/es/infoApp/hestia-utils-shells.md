@@ -1,4 +1,4 @@
-## 🖥️ Hestia-portable-scripts
+## 🖥️ Hestia-utils-shells
 
 Colección de scripts de shell útiles para automatizar tareas comunes en sistemas Unix/Linux.
 
@@ -9,7 +9,7 @@ Colección de scripts de shell útiles para automatizar tareas comunes en sistem
 - **🌐 Estado:** ![Producción](https://img.shields.io/badge/Producción-blue)
 - **🗓️ Año de inicio:** 2025
 - **🔄 Última actualización:** 2025
-- **📁 Repositorio:** [🔗 hestia-portable-scripts](https://github.com/andresdavidhr/hestia-portable-scripts)
+- **📁 Repositorio:** [🔗 hestia-utils-shells](https://github.com/andresdavidhr/hestia-utils-shells)
 
 ---
 
