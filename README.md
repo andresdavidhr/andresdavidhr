@@ -5,9 +5,29 @@
   <img src="assets/img/working02.gif" alt="Working" width="180" />
 </p>
 
-<!-- Skills Table -->
+---
 
-<!-- Skills Table -->
+## 🎯 ¿Quién soy?
+
+Ingeniero especializado en **datos y automatización** con **+7 años de experiencia** gestionando entornos críticos 24/7.
+
+Me apasiona encontrar soluciones prácticas que generen impacto real: **reducir incidentes, automatizar procesos y aportar fiabilidad** en sistemas de misión crítica. Trabajo principalmente con **Linux, Shell Script, SQL, Python** y herramientas de orquestación como **Control-M**.
+
+Además, desarrollo aplicaciones móviles y web en mis proyectos personales usando **Flutter, Node.js** y más.
+
+---
+
+## 🏆 Logros Destacados
+
+- 🛡️ **Reducción de incidentes críticos a casi cero** mediante automatización y validaciones previas en entornos de Data Warehouse
+- ⚡ **Optimización de procesos batch** que redujo tiempos de ejecución y errores humanos
+- 🔄 **Sistema de scripts reutilizables** para gestión de cargas en múltiples proyectos simultáneos
+- 👥 **Mentoría técnica** formando a nuevos integrantes del equipo en mejores prácticas de automatización
+- 📈 **Liderazgo en proyectos críticos** coordinando con clientes del sector bancario y seguros
+
+---
+
+## 🧰 Stack Tecnológico
 
 <table>
   <tr>
@@ -19,79 +39,82 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Linux-Expert-black?logo=linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-Expert-4EAA25?logo=gnubash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-Expert-green?logo=linux&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bash-Expert-green?logo=gnubash&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Python-Intermediate-orange?logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Java-Intermediate-orange?logo=java&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-Advanced-02569B?logo=flutter&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Nginx-Intermediate-009639?logo=nginx&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tomcat-Intermediate-F8DC75?logo=apachetomcat&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-Advanced-blue?logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Node.js-Intermediate-orange?logo=node.js&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-Intermediate-orange?logo=javascript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Nginx-Intermediate-orange?logo=nginx&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tomcat-Intermediate-orange?logo=apachetomcat&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/SQL-Expert-lightgrey?logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Oracle-Advanced-F80000?logo=oracle&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-Expert-green?logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Oracle-Advanced-blue?logo=oracle&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-orange?logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MySQL-Intermediate-orange?logo=mysql&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Microstrategy-Advanced-red?logo=microstrategy&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?logo=powerbi&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Microstrategy-Advanced-blue?logo=microstrategy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Power%20BI-Intermediate-orange?logo=powerbi&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Control--M-Advanced-0052CC?logo=autodesk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JIRA-Advanced-0052CC?logo=jira&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Markdown-Intermediate-000000?logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-Advanced-orange?logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Control--M-Advanced-blue?logo=autodesk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Docker-Advanced-blue?logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-Advanced-blue?logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JIRA-Advanced-blue?logo=jira&logoColor=white" />
     </td>
 </tr>
 </table>
 
 ---
 
-<details>
+## 💼 Experiencia Profesional
 
-  <summary id="-español">🇪🇸 Información en español</summary>
+### 🔹 Senior Business Analyst & System Admin
+**NTT Data España** | *2018 - Presente*
 
-¡Hola! Soy Andrés David, ingeniero especializado en datos y DevOps. Me apasiona la automatización, la fiabilidad y la mejora continua en entornos críticos.
-En este repositorio encontrarás información sobre mi experiencia, proyectos, formación y logros.
+- **Soporte 24/7** para entornos de Data Warehouse en clientes del sector bancario y seguros
+- **Automatización** de cargas de datos, validaciones y reporting con Shell Script y SQL
+- **Administración** de herramientas BI (MicroStrategy) y orquestadores (Control-M)
+- **Coordinación directa con cliente**, elaboración de KPIs y seguimiento de incidencias
+- **Evolución profesional**: de operador a analista senior y líder técnico
 
-- [Resumen](lang/es/summary.md)
-- [Sobre mí](lang/es/about.md)
-- [Formación y cursos](lang/es/training.md)
-- [Logros](lang/es/archivements.md)
-- [Carrera profesional](lang/es/professionalCareer.md)
-- [Proyectos personales](lang/es/personalProjects.md)
-- [Contacto](lang/es/contact.md)
-</details>
+**Tecnologías principales**: Oracle, Shell Script, Python, Linux, Control-M, MicroStrategy, JIRA, Git
 
----
+### 🔹 Profesor Particular
+**Freelance** | *2020 - Presente*
 
-<details>
-
-  <summary id="-english">🇬🇧 Information in English</summary>
-
-Hi! I'm Andrés David, a Data & DevOps Engineer passionate about automation, reliability, and continuous improvement in critical environments.
-In this repository you will find information about my experience, projects, education, and achievements.
-
-- [Summary](lang/en/summary.md)
-- [About me](lang/en/about.md)
-- [Training and courses](lang/en/training.md)
-- [Achievements](lang/en/archivements.md)
-- [Professional career](lang/en/professionalCareer.md)
-- [Personal projects](lang/en/personalProjects.md)
-- [Contact](lang/en/contact.md)
-</details>
+Clases particulares de **Java, Node.js, Flutter y SQL** enfocadas en proyectos reales y lógica de programación aplicada.
 
 ---
 
-<details open>
+## 🚀 Proyectos Personales
 
-  <summary>📊 Stats & Activity</summary>
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| **Hermes-api** | Python, MySQL, Docker | Software modular para control de peticiones API *(productivo actualmente)* |
+| **Hermes-scraper** | Python, Selenium, Docker | Automatización de recolección de datos web *(productivo actualmente)* |
+| **Gaia-tour** | Flutter | App móvil para gestión de guías turísticos *(en desarrollo)* |
+| **Apolo-profile** | Shell | Configurador de entornos linux y mac *(productivo actualmente)* |
+
+*Otros proyectos incluyen webs personalizadas con Flutter/Nginx, proyectos descontinuados y herramientas o utilidades *
+
+---
+
+## 📚 Formación
+
+- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** (DAM) | *IES Alquerias, 2015-2017*
+- ✅ **Google Cloud Digital Leader** | *Certificación oficial, 2024*
+- 📘 **Cursos completados**: Git, Python Node.js (+29h), Flutter (+37h), Vim, Business Intelligence
+
+---
+
+## 📊 Stats & Activity
 
 
 <table>
@@ -118,14 +141,22 @@ In this repository you will find information about my experience, projects, educ
   <img src="https://img.shields.io/github/commit-activity/y/andresdavidhr/andresdavidhr" alt="Commits this year"/>
 </p>
 
-
-
-
 </details>
 
 ---
 
+## 🤝 Contacto
+
+🚀 Siempre abierto a **ideas, desafíos, proyectos freelance o colaboraciones tecnológicas**.
+
+- 🌐 **LinkedIn**: [linkedin.com/in/andresdavidhr](https://www.linkedin.com/in/andresdavidhr)
+- ✉️ **Email**: andresdavidh11@gmail.com
+- 📄 **CV actualizado**: [Descargar aquí](https://docs.google.com/document/d/13fn7L3gCuh0YGaCcO7R74xWNNBeQAHU-IqxXEURr5bE/edit?usp=drive_link)
+
+¿Buscas mentoría, colaboración en proyectos de datos, automatización o charlas técnicas? **¡Escríbeme!**
+
+---
 
 <p align="center">
   <sub>
-    &copy; 2025 <a href="https://github.com/andresdavidhr">Andrés David Hernández Rocamora</a> &mdash; All rights reserved.
+    &copy; 2026 <a href="https://github.com/andresdavidhr">Andrés David Hernández Rocamora</a> &mdash; Gracias por visitar mi perfil 🙌
