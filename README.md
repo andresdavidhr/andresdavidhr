@@ -41,7 +41,7 @@ Además, desarrollo aplicaciones móviles y web en mis proyectos personales usan
     <td>
       <img src="https://img.shields.io/badge/Linux-Expert-green?logo=linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash-Expert-green?logo=gnubash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-Intermediate-orange?logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-Intermediate-orange?logo=java&logoColor=white" />
     </td>
     <td>
@@ -53,7 +53,7 @@ Además, desarrollo aplicaciones móviles y web en mis proyectos personales usan
     </td>
     <td>
       <img src="https://img.shields.io/badge/SQL-Expert-green?logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Oracle-Advanced-blue?logo=oracle&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Oracle-Expert-green?logo=oracle&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-orange?logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MySQL-Intermediate-orange?logo=mysql&logoColor=white" />
     </td>
@@ -63,7 +63,7 @@ Además, desarrollo aplicaciones móviles y web en mis proyectos personales usan
       <img src="https://img.shields.io/badge/Cloud%20Digital%20Leader-Certified-brightgreen?logo=googlecloud&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Control--M-Advanced-blue?logo=autodesk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Control--M-Expert-green?logo=autodesk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Docker-Advanced-blue?logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-Advanced-blue?logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/JIRA-Advanced-blue?logo=jira&logoColor=white" />
